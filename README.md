@@ -1,6 +1,6 @@
 
 # Practical-Machine-Learning
-## Readme file
+## The help file
 
 Course project from the Practical machine learning course, offered by the Johns Hopkins University for Data Science Specialization.
 
